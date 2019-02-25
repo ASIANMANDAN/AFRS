@@ -1,0 +1,1312 @@
+commit db1ba54c5b09261f7e498ceaef9739dad7fa7c7e
+Author: ASIANMANDAN <dcw2772@g.rit.edu>
+Date:   Mon Mar 5 00:33:52 2018 -0500
+
+    Add files via upload
+
+commit 28ccbdf1460996f7df322424b5c3c2624f3949a6
+Merge: 509acd7 b1908f3
+Author: Meghan Johnson <31448335+mrj9235@users.noreply.github.com>
+Date:   Sun Mar 4 23:22:13 2018 -0500
+
+    Merge pull request #2 from BobbySwen262/SavingReservations
+    
+    Saving reservations
+
+commit b1908f3fc06c9fa667c1520ab14dd0306419af99
+Merge: c6aa455 9ac25e7
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 23:19:30 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit c6aa455c1ffb70f391f2430d7533990666168d87
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 23:19:15 2018 -0500
+
+    Made, reservations blank again
+
+commit 9ac25e71b8aaccbd60fcf5826ef5bcd330d4f179
+Merge: 94d05d4 161f812
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 23:18:25 2018 -0500
+
+    Merge remote-tracking branch 'origin/SavingReservations' into SavingReservations
+
+commit 94d05d40f9b784469548543b86af4ee74819dc7b
+Merge: c3bab17 1ee9016
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 23:15:50 2018 -0500
+
+    Merge remote-tracking branch 'origin/SavingReservations' into SavingReservations
+
+commit c3bab17026a6119d7ed734984c2cf53e4c6cd3a8
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 23:15:30 2018 -0500
+
+    Fixed repeating itineraries
+
+commit 161f8129b1a31910025c3de33fbae4b9c7ce386e
+Merge: 8a3a900 1ee9016
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 23:01:25 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit 8a3a900e796fbecf7930f48c69248c0563a402d6
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 23:00:41 2018 -0500
+
+    Got FlightRequest to detect number of connections
+
+commit 1ee9016899a34419ed7b5bac42cb4bd0b5a3f721
+Merge: 3da8bd7 b5ff703
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 22:55:36 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit 3da8bd795084b1d8418ed430a7fe5d190556b171
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 22:55:15 2018 -0500
+
+    Resolved issues with saving. Current assumes that all flights have a number above 3.
+
+commit b5ff7030a736c53bfb8a582e6a3de87a9989189b
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 22:53:53 2018 -0500
+
+    Fixed errors in ArrivalSort and AirfareSort
+
+commit 92ef119b412a8d2a93c89beb50ca00ac3b07ea2f
+Merge: 8292533 4574606
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 22:42:06 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit 8292533332cbf48818eee58ea40f5539b7945ce1
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 22:41:39 2018 -0500
+
+    Resolved saving issues. Need to test saving reservations with multiple flights.
+
+commit 4574606a31cd19ed638d6ae03679473059c29b95
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 22:22:49 2018 -0500
+
+    Fixed errors in Departure
+
+commit c9658229955c4752cc70cc83d34fef6d742c7949
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 21:47:21 2018 -0500
+
+    Fixed AirportRequest to display delay in minutes
+
+commit 2f72fc524f302f5294b7f39b09849c7f6e99c6f6
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 21:44:03 2018 -0500
+
+    Updated airport request to display city name not airport name
+
+commit 72a0fa266bd2af7240cefeabf6bd275e2edffd7e
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 21:17:55 2018 -0500
+
+    Fixed some import statements
+
+commit b49a2498dc53477066a80f2112bb37e56af97f97
+Merge: c818ef2 f21182d
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 20:54:49 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit c818ef2b756a9095520e5f170327c3b36f4eb728
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 20:54:36 2018 -0500
+
+    Added comments to AirportDatabase
+
+commit f21182d0c78a9fac1003e4a414d0fb193ebacc26
+Merge: 347aba7 9022b3a
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 20:47:09 2018 -0500
+
+    Merge remote-tracking branch 'origin/SavingReservations' into SavingReservations
+
+commit 347aba78de6c4ed90bf03f5e6853f90ce1342e0a
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 20:46:43 2018 -0500
+
+    Completed more documentation.
+
+commit 6dabb2fc07fec03e9a192baff830d3160b071d45
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 20:44:11 2018 -0500
+
+    Added comments to Airport
+
+commit d5ed02bb712d1f00ef36f35f707e461c1405a6e8
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 20:40:09 2018 -0500
+
+    Completed documentation (minus AirportDatabase) for all the Databases.
+
+commit 9022b3a12899dc0873d77712e3b52eb05f12c81b
+Merge: 4b1d0ce a298108
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 20:35:22 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit 4b1d0ce8364a22bc43c0a7d865ce8ba487f9e4ac
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 20:35:13 2018 -0500
+
+    Added comments to all the Requests
+
+commit a29810880e101e3a819dc5e3b2131870cefd24cc
+Merge: 4120e65 51a6cee
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 20:22:39 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit 4120e65a0b9e87ca6e6ab9b8e450bf797098d6b3
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 20:22:26 2018 -0500
+
+    Accepted changes made to the Sorting classes, and then moved them to their own package.
+    
+    # Conflicts:
+    #       src/Controller/Sort/AirfareSort.java
+    #       src/Controller/Sort/ArrivalSort.java
+    #       src/Controller/Sort/DepartureSort.java
+    #       src/Model/Requests/FlightRequest.java
+
+commit 51a6ceefd363a1d33ac569b1bef24d297696b4f6
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 20:13:29 2018 -0500
+
+    Changed import and package statements for AirfareSort
+
+commit c5ce1154f5ccdcaf38f288904497fff95f453f63
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 20:11:24 2018 -0500
+
+    Removed commented out code
+
+commit cc36daf7fe613be7ded3cde763b6532ad11ab69a
+Merge: 098a8e9 dac61f8
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 20:11:08 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+    
+    # Conflicts:
+    #       src/Application.java
+
+commit 098a8e95403089ab6bca55f6b2d21bb7c83a56b8
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 20:04:44 2018 -0500
+
+    Removed commented out code from Application that is in RequestHandler
+
+commit dac61f85f57bda98e8ecd94192bcbe271a0cda81
+Merge: 958dbeb 5242b3d
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 19:57:15 2018 -0500
+
+    Merge remote-tracking branch 'origin/SavingReservations' into SavingReservations
+    
+    # Conflicts:
+    #       src/Controller/Sort/AirfareSort.java
+    #       src/Controller/Sort/ArrivalSort.java
+    #       src/Controller/Sort/DepartureSort.java
+    #       src/Model/Requests/FlightRequest.java
+
+commit 958dbeb19e1055417f5e0d56009e98e830a57102
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 19:50:57 2018 -0500
+
+    Refactored the application and all the Databases. All the Databases are instantiated through the DatabasePopulator and are restricted via AllDatabase.
+
+commit 5242b3d0d919da7fe2c4934c0b7f1bb792db083f
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 19:49:29 2018 -0500
+
+    Added comments to FlightRequest
+
+commit fccd4474ad4950d8e5556d9efa373639f47bf712
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 19:34:54 2018 -0500
+
+    FlightRequest now recognizes number of connecting flights
+
+commit 18f80cfb04d24e34347605cf3bf5df4736b125a8
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 19:34:08 2018 -0500
+
+    Added a comma to Itinerary's toString method
+
+commit 12c6fe805e501b1058418890a04e8e1904459a4f
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 19:04:17 2018 -0500
+
+    Added sort orders to FlightRequest;
+
+commit 3bf1f1c0e3ccceebe9d6a4673ce036467857b510
+Merge: 33774fd 4657391
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 18:56:22 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit 465739131945bf7b510a8abd062dd68508f11f22
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 18:56:12 2018 -0500
+
+    Added comments to Arrival and Airfare sort, implemented DepartureSort
+
+commit 33774fd6c8795f0c2fd21a99a5444b820d43ee04
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 18:56:10 2018 -0500
+
+    Updated toString of Reservation to match requirements.
+
+commit 39128234c2252e8bfa07156d7c36407d56461c86
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 18:49:31 2018 -0500
+
+    Reservations are now saved and read correctly.
+
+commit ecdf2d6c55a607beb1ca5d8a24e159e0ec286e47
+Merge: 9614ca0 0bb16cd
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 18:35:12 2018 -0500
+
+    Merge remote-tracking branch 'origin/SavingReservations' into SavingReservations
+
+commit 9614ca0e29d4e4c3203c6be7f117a0853f3f9c72
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 18:35:01 2018 -0500
+
+    Completed ArrivalSort, updated AirfareSort, added getter in Itinerary
+
+commit 0bb16cd687aad7fd566a7b707e8072684b374a52
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 18:26:16 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+    
+    # Conflicts:
+    #       src/Application.java
+
+commit 658967b187843880c5b112ea8d28bc6b919a194f
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 16:43:41 2018 -0500
+
+    Had the sorted itinerary list be returned and not the unsorted list
+
+commit d9c1555d8e6d26aacd1fd9cce699c50530330f0b
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 16:29:41 2018 -0500
+
+    Added sorting by airfare in FlightRequest
+
+commit 5f24084f2bff417d9012b4f44511056050a50eba
+Merge: 5de15b1 825aeae
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 16:25:42 2018 -0500
+
+    Merge remote-tracking branch 'origin/SavingReservations' into SavingReservations
+
+commit 5de15b113b0685ca62d8006c26afc2a6836a0da1
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 16:25:15 2018 -0500
+
+    second attempt at committing the functionality for Airfare Sorting
+
+commit 825aeaefe0b8b81a4f77e06420a780734c46ae63
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sun Mar 4 16:23:55 2018 -0500
+
+    Delete uiDesigner.xml
+
+commit bba251ab17861af986691cacfd12699877050c74
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sun Mar 4 16:23:47 2018 -0500
+
+    Delete vcs.xml
+
+commit 290feffdc820615011f54d5009bfe5fa9585aa05
+Merge: 2d995eb 11b215f
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 16:19:45 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit 2d995ebe934bbdaa8c77cb067738364ec58b7931
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 16:17:19 2018 -0500
+
+    Completed the sort functionality for AirFare
+
+commit 11b215fbf90fb46993cb3dee71918466abcd8dfe
+Merge: 21ded21 d9b43e0
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 16:09:23 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+    
+    # Conflicts:
+    #       src/Application.java
+
+commit 21ded21c85002b185cc886f718502d5bc738232a
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 15:47:52 2018 -0500
+
+    Now generates the FlightDatabase and ReservationDatabase.
+
+commit 08e1e84e26cd69d3d1c476a21fbab58fac7446db
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 15:47:03 2018 -0500
+
+    Now generates the FlightDatabase and ReservationDatabase.
+
+commit d9b43e0bb94c2371f5c6993a93293ed37843973b
+Merge: 7b8191e c12ce6a
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 15:39:07 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit 7b8191ec132a7f6456d07af25539483549a59c06
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 15:38:54 2018 -0500
+
+    Got RequestHandler to execute FlightRequest
+
+commit c12ce6a4b6ad8e056ddba699c7782dfd49a15f50
+Author: mrj9235 <mrj9235@g.rit.edu>
+Date:   Sun Mar 4 15:28:10 2018 -0500
+
+    Created files that will handle sorting the itineraries.
+
+commit d877146bd7cdd94c024c9f0f7e5da76d7f0b3250
+Merge: 15bb82b 5749b44
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 14:32:30 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+    Fixxed merge conflicts.
+
+commit 15bb82b518d101804852b1004bc6efa3208051aa
+Merge: d45921f 258ec2f
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 13:57:21 2018 -0500
+
+    Merge remote-tracking branch 'refs/remotes/origin/SavingReservations' into SavingReservations
+
+commit d45921f738ad2adff4b665225e82ee10d5e2fcb4
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 13:54:44 2018 -0500
+
+    Complted more test classes.
+
+commit 5749b4484bbe7903e5b5b0ab42ed2c37fd766591
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 13:52:00 2018 -0500
+
+    Instantiated ReservationDatabase in Application
+
+commit 4661ecff1606e174bc6ba968cf052fc9e01396cf
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 13:51:33 2018 -0500
+
+    Began functionality for making flight, make reservation, and airport requests work in RequestHandler
+
+commit 71a39a3e516b4c551f405c242b79a7d87c409fc6
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 13:50:37 2018 -0500
+
+    Index calls to requestInfo changed by 1 for all requests
+
+commit e7ad94fa8fe64ca04dc6b499b02874e8ab6a94a0
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sun Mar 4 12:48:15 2018 -0500
+
+    Completed Testing with AFRSTime, ready to move onto Flight testing.
+
+commit 258ec2fad1ae540be8adc5f45e2156cde049d4f9
+Merge: f6d82d3 d9d1434
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sun Mar 4 12:36:44 2018 -0500
+
+    Merge branch 'SavingReservations' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit f6d82d3a1e3ab3bd811ba71c653c90c3427d90f2
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sun Mar 4 12:36:31 2018 -0500
+
+    Removing .iml
+
+commit 737620a194b80626843a4221f8eabf452f8b4c08
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 12:27:09 2018 -0500
+
+    Made RequestHandler class that takes the switch statement from application
+
+commit 11e5ff6edc3845e176f3af18535e1115818ea5ab
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 04:07:31 2018 -0500
+
+    Added comments to DeleteReservationRequest
+
+commit f849256f9d126f90cfd5cf54b0b028abafbb2f49
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 03:45:42 2018 -0500
+
+    Added comments to AirportRequest and added error checking
+
+commit 08fcbc5af5201ba8a37e6c1566a16554cf72ee76
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 03:22:30 2018 -0500
+
+    Added error checks for FlightRequest
+
+commit a49fad5bc3427d73d73d9fa16c0aa62cdf81e7fb
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 03:21:42 2018 -0500
+
+    Added a hasAirport method to AirportDatabase
+
+commit 36d4098b929975d315284af53b1997fdba8a6214
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 02:56:42 2018 -0500
+
+    Finished MakeReservationRequest implementation
+
+commit a66e8fb7c3f9078dc1f08219277eeace38001133
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Sun Mar 4 02:16:01 2018 -0500
+
+    RetreieveReservationRequest updated for having origin and destination in the request
+
+commit 43351dc249209d1ee081134e46e0fc8aefabffb1
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 21:14:28 2018 -0500
+
+    RetreieveReservationRequest updated for having origin or destination in the request
+
+commit fbf4db1b782802f1782be687087f270197b1a5e9
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 18:09:27 2018 -0500
+
+    IT WORKS THANK YOU DAN
+
+commit d9d1434d7ea7f9ae25171c1226ce29e0580a93d2
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 17:55:05 2018 -0500
+
+    Adding Test files for the ReservationHierarchy. Need to focus on testing
+    and stabalizing current software/classes.
+
+commit cb971866ad799d35d030fa1f84b9a48fbba47bfd
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 17:47:06 2018 -0500
+
+    Completed implementation of ItineraryGenerator. Need to verify
+    implementation with tests.
+
+commit 397709181b6c824afeacc0b44de7c5d29c26db87
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 17:45:29 2018 -0500
+
+    Still broken but better
+
+commit f6367228ed9768bbbf4085aa088db00211c6878e
+Merge: 2cbcbc0 dc4e92d
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 17:32:28 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit dc4e92d78350e174a3b2f8d453920d05dbb786a7
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 17:30:49 2018 -0500
+
+    Finished implementation for RetrieveReservationRequest when only a name is entered.
+
+commit 2cbcbc041bbcf1cb26bef3089678ddef485d5c8b
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 17:30:07 2018 -0500
+
+    Dan help plz it broke
+
+commit af0988d0deddda828edecf84e078acc23bebe6b3
+Merge: b53e9ef 94ae28d
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 17:13:35 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit b53e9efc9f9b71223461b86f258f9a25c987702f
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 17:13:23 2018 -0500
+
+    Started work onRetrieveReservationRequest when only passenger name given
+
+commit 94ae28d461134dc52622f17e59fee97ebd89ed33
+Merge: cad9dbd 9bfb4d1
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 17:09:43 2018 -0500
+
+    Merging things
+
+commit cad9dbde6215f1f14fe0bfdbb857264856d7bf24
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 17:07:16 2018 -0500
+
+    AirportDB should work now
+
+commit 9bfb4d1309e68f28a175498c2aafcfa53010c8fc
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 17:05:19 2018 -0500
+
+    Deleted second removeReservation as that functionality was in DeleteReservationRequest
+
+commit c36cbf45d0a2bf956d7d23fa25b4712578d7cdb4
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 17:03:42 2018 -0500
+
+    Fixed location of a break statement in ReservationDatabase
+
+commit b2bc3c123c0bbb4201c7d136f77ebd0a2d5875c1
+Merge: 95d760d 509acd7
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 17:01:47 2018 -0500
+
+    Merge branch 'master' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit 95d760db79d176e0eac6234881ce21e8bff7e480
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 17:01:37 2018 -0500
+
+    Started functionality with RetrieveReservationRequest
+
+commit f56a6440aab904fbbbebd7f6c91c6f2400917f9b
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 17:01:02 2018 -0500
+
+    Merged conflict in AirportDatabase
+
+commit 8df58e7579aa597869abce56d7019a2072f1b0d1
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 17:00:33 2018 -0500
+
+    Added secondary add and remove reservations in ReservationDatabase with different parameters.
+
+commit c0b6dcd92aab0293fe39a6bbb24d9cd37c3a150a
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 16:59:46 2018 -0500
+
+    made DeleteReservationRequest match requirements
+
+commit 69a73a933b2fdbebfc491bbed60b150d4912e869
+Merge: cc67b07 e44dfc7
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 16:59:23 2018 -0500
+
+    Merged conflicts and made DeleteReservationRequest match requirements
+
+commit 509acd71a7ba17df5359bdd1270651df2da242ca
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 16:36:25 2018 -0500
+
+    Adding AFRSTime from SavingReservations and updated ReservationHierarcy.
+
+commit 646a9452114734cfa2d78445bf2411b9ff790d10
+Merge: 49097ea e44dfc7
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 16:30:43 2018 -0500
+
+    Merge branch 'master' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+    Pulled from master and resolved small changes.
+
+commit 49097ea73946432dfa64b0ed59078682d5eb2784
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 16:25:39 2018 -0500
+
+    Fixed the implementaton of AFRSTime and updated the
+    ReservationHierarchy.
+
+commit e44dfc75953d55c6e67bafc328fc20f42e50536e
+Merge: 6146784 8dd876e
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 15:16:30 2018 -0500
+
+    Merge branch 'master' of https://github.com/BobbySwen262/designproject-better-than-united-airlines
+    In order to push ReservationHierarchy.
+
+commit 614678438137062aac462ee5c15a0d5504f4ca17
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 15:15:11 2018 -0500
+
+    Pushing the ReservationHierarchy to master to allow others to work on
+    Requests.
+
+commit 447f24200e1a75efbbba053a5a2aea75d7bcce33
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 15:09:19 2018 -0500
+
+    Working on generating Itineraries.
+
+commit cc67b079a60af83f9beb7483dd08c13151304fb8
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 15:03:23 2018 -0500
+
+    Updated DeleteReservationRequest to check if reservation exists. Added hasReservation to ReservationDatabase
+
+commit 4e2894904eb206b6dcfdc6bb18073051a5062821
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 14:43:02 2018 -0500
+
+    Updated AirportRequest to return info in correct format
+
+commit 2b91c9d0130c3ac6a54fface9d05b03bab4da65c
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 14:39:09 2018 -0500
+
+    Changed minConnectionTime to a String.
+
+commit babf352f59ec5e5985568f16d43ed3df81ffd7a6
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 13:41:04 2018 -0500
+
+    Reorganized model classes into packages for easier navigation.
+
+commit 8dd876e09988fe6bcb538d701419a30998b0de7f
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 13:22:38 2018 -0500
+
+    Runnable
+
+commit 707b4ebc8a228e58690ff87850073f17d2caf970
+Merge: 93a3f15 1f0c1be
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 13:22:02 2018 -0500
+
+    Merge branch 'master' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit 8791f130b3df9cbe9fb8ef198a8150d5015426ce
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 13:20:52 2018 -0500
+
+    Fixed small error
+
+commit 1f0c1be7a8e8533c118160d118b96a5b6c4efc59
+Merge: a1827fc ef97903
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 13:16:38 2018 -0500
+
+    Merge pull request #1 from BobbySwen262/requests
+    
+    Merge basic functional requests into master
+
+commit 93a3f15e4c83458f1563b2d5a558ba14234ff761
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Sat Mar 3 13:03:45 2018 -0500
+
+    Brought over AirportDatabase and FlightDatabase for experimentation.
+
+commit ef979032d25c30580badb4783e41d30995b9a432
+Merge: 93df2d2 9fd427a
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 09:45:26 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit 93df2d2ffb21ec93f3ebf84e7571d5aae6a5d8a3
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Sat Mar 3 09:45:03 2018 -0500
+
+    Creating new methods in AirportDB
+
+commit 9fd427abd665e178c168563e39037006a02c2330
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Sat Mar 3 00:40:00 2018 -0500
+
+    Initial implementation for DeleteReservationRequest. Will update when itineraries implemented
+
+commit dbc123ad1e454bd56faf6bf9fe5477ba1bff08c3
+Merge: 3d9348a a5a183b
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 19:48:41 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit 3d9348a744f0e0c7351dddbb5d50463d49e6c14d
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 19:46:49 2018 -0500
+
+    Changed text files and added delays.txt
+
+commit a5a183bf87fa2ed11b37b6da700cb726683c2321
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Fri Mar 2 19:09:01 2018 -0500
+
+    Initial implementation for RetrieveReservationRequest. Will update when itineraries implemented
+
+commit 43cf3dc2b284dd7b83d99c9e84351e284c119148
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 18:31:09 2018 -0500
+
+    Merging
+
+commit ba98ae06730f47621f5131252a4c81053d66686d
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 17:02:28 2018 -0500
+
+    FileToHashMap progress
+
+commit 68b7e78639d35539ac345ea3ab862e0ed1145bf5
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 15:20:05 2018 -0500
+
+    FileToHashMap for database creation'
+
+commit 0c91f09430803b00b318434d1a59bfdef2c4410b
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Fri Mar 2 14:11:30 2018 -0500
+
+    Preparing to save the ReservationDatabase. Three models that go into
+    Reservations now have a toString() to allow representation of a CSV
+    file.
+
+commit 5fdd6b12ffa44e9f9ade3ab3e2a4deb48ad065b9
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Fri Mar 2 12:25:32 2018 -0500
+
+    Implemented equals() for each model. This is need to check if one
+    Reservation is equal to another within the ReservationDatabase.
+
+commit f5cc981c7ba736b685510e6c0cf20cd7e3d34314
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Fri Mar 2 11:56:37 2018 -0500
+
+    Changed the internal representation of the ReservationDatabase into a
+    Collection. There is no need to HashMap with passenger names; names can
+    be found through Reservations. Need to implement equals() for
+    Reservations.
+
+commit ace7940b67e9523ae931071f25c38c51118611cd
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Fri Mar 2 11:44:00 2018 -0500
+
+    CurrentReservations is now ReservationDatabase. Need to implement the
+    observer and observable methods for each class.
+
+commit 8ada937bd21bd59f2d55fab20326d92a034623c2
+Merge: 5c94260 366c3c2
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 11:05:44 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit 709ad93bc7472bccb78d34296dc9c2a51c902627
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Fri Mar 2 11:04:22 2018 -0500
+
+    Connected the FlightChildren with the new AFRSTime class. Need to share implementation for the specific Request dealing with time.
+
+commit 5c94260cb744fa9ea2420d6d53cb523c87a53387
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 11:04:04 2018 -0500
+
+    Fixed text file
+
+commit 366c3c254f04c250d956a5c2344209447f4007ec
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Fri Mar 2 11:03:10 2018 -0500
+
+    Updated Airport to have ArrayList for weather and temp. Made FlightDatabase
+
+commit 3ea6d08ecc7c65c9d5e5e379944db74d582e66fb
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Fri Mar 2 10:56:58 2018 -0500
+
+    Hacked a simple AFRSTime class to represent time within the database. To be used when calculating transpired time and within the Reservation System.
+
+commit d5abf00969b8e95abeaafc50d789b5778854f6fd
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 09:57:19 2018 -0500
+
+    Documented Parser and Application
+
+commit 1ff5e8cd9ace74d53c57b22523ef95da3368cb71
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 09:44:13 2018 -0500
+
+    Functional Application with inline comments
+
+commit 5462a36cf175c0a001f63578c7fbb64ac1132cf9
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 09:27:39 2018 -0500
+
+    Fixed 'q' to quit
+
+commit 20c88bbdb53369c7f1714a2a899b1d7f81faf0ce
+Author: edc8230 <edc8230@g.rit.edu>
+Date:   Fri Mar 2 09:24:56 2018 -0500
+
+    Implemented Reservation according to the FlightChildren interface. Need to consider extending/implementing comparable to see when two Reservations are equal.
+
+commit 8d970189d285d2d3ae41879f278ea15a643cb940
+Author: edc8230 <edc8230@g.rit.edu>
+Date:   Fri Mar 2 09:14:00 2018 -0500
+
+    Removed add() and remove() from interface, needs to be implemented specifically to each Composite class. Implemented and documented Itinerary. duration() not implemented in Flight or Itinerary (need data type for time).
+
+commit 9491789a86ec4b47c12444982f87bc0e7036c62c
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Fri Mar 2 09:09:04 2018 -0500
+
+    Created Parser class used in Application
+
+commit 49e902141f8b907c5623e46c4ea03d9879ead23c
+Author: edc8230 <edc8230@g.rit.edu>
+Date:   Fri Mar 2 07:12:56 2018 -0500
+
+    Completed implementation of the Flight class according to the FlightChildren interface.
+
+commit b80d3f56e146c7a676ec9e893e767195cc245025
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 23:16:06 2018 -0500
+
+    Made MakeReservationRequest constructor
+
+commit c5709c7e7c477b4cd25c11a97b0bee06467399a5
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 23:14:30 2018 -0500
+
+    Made all the void executes into ArrayLists
+
+commit 67c7ab3eb0d2765ad45d7804c5c5543ff54528a1
+Merge: d08687e e8fd678
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 23:06:21 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit d08687eea2c70df93f76ba8b6ce16c0e5d6160c5
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 23:04:51 2018 -0500
+
+    Application
+
+commit e8fd678dc949f2ca99026931ee0b5fb8981ffc4b
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 22:57:21 2018 -0500
+
+    I don't know what was changed but I need to push something
+
+commit 9188e47647c97ca83fc6a80171ca9a60da0faa7f
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 22:56:20 2018 -0500
+
+    Set AirportDatabase in AirportRequest constructor
+
+commit 025c71b7ad6f3af1d5676c9727cf86159dc5b95d
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 22:37:42 2018 -0500
+
+    Re-committing AirportRequest for Dan xD
+
+commit f1900eb90bc949366bd2001eb4c93eedb1393b22
+Merge: 56ae915 a461731
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 22:31:05 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit a4617310b52667b3f4586e307f764f0cec357080
+Merge: 0e282dd 5182de7
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 22:30:32 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit 0e282ddcd3d9ac65b6a912e44157a110638cbd3a
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 22:30:19 2018 -0500
+
+    Finished initial implementation of ReservationDatabase
+
+commit ac85a66002a347cabf1be40097dfcb7fcd44dc74
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 22:29:54 2018 -0500
+
+    Changed ReservationRequest's execute to ArrayList
+
+commit 56ae915d866602b7d76167117c60cf3154470270
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 22:27:52 2018 -0500
+
+    saving
+
+commit 5182de746d640efdc64e5ce773575b2843ad37da
+Merge: 5fa5d2f e42b5fd
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 22:11:29 2018 -0500
+
+    Avoiding merge
+
+commit 5fa5d2f6b6d21f6ff8c6b1599553edbd4beb6bc8
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 22:06:21 2018 -0500
+
+    Updated Application for requests
+
+commit e42b5fd15b86f89b3fda86f7de5c3c683eb186a6
+Merge: ae324d6 7896353
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 22:04:17 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+    
+    # Conflicts:
+    #       src/Model/Requests/DeleteReservationRequest.java
+    #       src/Model/Requests/ItineraryRequest.java
+    #       src/Model/Requests/RetrieveReservationRequest.java
+
+commit ae324d67c8f7691843019f827acb7be6ef2840fc
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 22:01:35 2018 -0500
+
+    Renamed code to name
+
+commit 37ad31e20033c4b90ed22ccd442fb03205f76ad2
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 22:01:09 2018 -0500
+
+    Updated Request so that execute returns ArrayList
+
+commit 29767b473ed5a7b703cd74ab088a06e300bef787
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 21:59:58 2018 -0500
+
+    Created AirportDatabase to store airports and update airport info
+
+commit 5ec42cef68f5173ab29f4c08e79913224a113ba2
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 21:57:58 2018 -0500
+
+    Finished initial implementation of AirportRequest
+
+commit 7896353e967ba048dd574ff06dde4f6676cda6c1
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 21:33:43 2018 -0500
+
+    Completed request switch
+
+commit ad2003444c1fa5b8103e85c8a5d3773d0fcc6b8d
+Merge: ab86da6 a1827fc
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Thu Mar 1 20:56:58 2018 -0500
+
+    Merge branch 'master' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+    Fixxed issues with skeleton code. No implementation in any of the three
+    classes.
+
+commit a4b8cc4b983f61a1849517cb0f7663e09559c7d4
+Merge: a284dae a1827fc
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 20:50:31 2018 -0500
+
+    Merge branch 'master' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+    
+    # Conflicts:
+    #       src/Model/Flight.java
+
+commit ab86da6157fc8f57905ad9556baf707871215964
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Thu Mar 1 20:41:13 2018 -0500
+
+    Merging files to the master branch so that others may implement based on
+    these abstractions.
+
+commit a284dae390ce6e4760d7d39f90af6952e41ed502
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 20:28:38 2018 -0500
+
+    Added constructor to RetrieveReservationRequest
+
+commit 82fafac99985d7883616e3ca8b184b00dc89c817
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 20:27:11 2018 -0500
+
+    Added constructor to ItineraryRequest
+
+commit c3ed5f132cf712553ed800f9b277e6404f7b022e
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Thu Mar 1 20:26:02 2018 -0500
+
+    Made a mistake with local master branch, changing over to make
+    corrections.
+
+commit b7c36fc38ed6af1a42c2757478d2f139c0e519b1
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 20:25:29 2018 -0500
+
+    Added constructor to DeleteReservationRequest
+
+commit 7fa9ba04db107b20d68626041263ca63c3ad7122
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 20:24:07 2018 -0500
+
+    Removed List from imported modules
+
+commit a1827fcd2e2a72882893a788beaf3bc50fff7bc2
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Thu Mar 1 20:20:52 2018 -0500
+
+    Added interface for the Composite structure. Methods yet to be
+    implemented.
+
+commit a8b06fdc7a3752bd86f86337ec6849bf9926b09b
+Merge: 48a13ec 8a37125
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 20:17:20 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit 48a13ec75170709c9a833a92d3f5055a05f3dd2e
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 20:17:09 2018 -0500
+
+    Created MakeReservationRequest constructor
+
+commit 5acb6adcce5e6c12b53b9e7e5fa0b7f0142e0f4a
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 20:16:47 2018 -0500
+
+    Created AirportRequest constructor
+
+commit 8a37125d384e551ad8def14e3fe709c33918755c
+Merge: be254bf 58f015c
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 20:13:55 2018 -0500
+
+    Merge branch 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit be254bfd6cfc6b258acfd0d7e5b673b2fb4b1ac3
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 20:13:34 2018 -0500
+
+    Updated Application for specific requests
+
+commit 58f015ca214fb59893c8fca68415492ebc83e806
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 20:02:39 2018 -0500
+
+    Updated Airport with attributes, getters, and setters.
+
+commit 2eed157296ded97d545b4bfb3028859c31a4b31e
+Merge: b6b9940 7831860
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 19:42:18 2018 -0500
+
+    Merge branches 'master' and 'requests' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit b6b994087a49a8451a736bf47f00d1c5b2dba10e
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 19:39:23 2018 -0500
+
+    Removed redundant classes and moved request classes to new package
+
+commit 8c5bea787ca95a535bd7a6c0cea0fbe57478a393
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 19:31:17 2018 -0500
+
+    Remove .idea
+
+commit 7831860ef25ba8929625a26e29316aa1edabd8b1
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 19:28:33 2018 -0500
+
+    Remove .idea
+
+commit f4a66a07986fd29980ba0aa7da6e45d134561d19
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 19:25:44 2018 -0500
+
+    Remove stuff
+
+commit c4ac819646cb8d7020fa1d8c152e18f466bef074
+Merge: 1b3250c 3a656eb
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 19:16:48 2018 -0500
+
+    Merge remote-tracking branch 'refs/remotes/origin/requests' into requests
+
+commit 1b3250cdb77887824f10164cfee006531f56650b
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 19:14:17 2018 -0500
+
+    Fixing merge
+
+commit b73bbfab9a6dab5937c91fbf6724e22853daf219
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 18:45:41 2018 -0500
+
+    Takes in and sanatizes requests
+
+commit 3a656ebd5072ed4601ca62cd669bb31e05644ac7
+Merge: 6eb8470 91a25eb
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 17:49:30 2018 -0500
+
+    Merge remote-tracking branch 'origin/requests' into requests
+
+commit 6eb84708f7114ccfa1ae09f207cb674c1a08b922
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 17:49:05 2018 -0500
+
+    Added a requestInfo field
+
+commit 70e1e8a5a037d3373c303a28388b9baf99f6dd4a
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 17:48:24 2018 -0500
+
+    Started work on class to get information about a reservation.
+
+commit 0af4d5692202947621b8da4d1bebc499a6a348c5
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 17:47:56 2018 -0500
+
+    Started work on class to make reservations
+
+commit b7becb2a9bf7c3bd1b6c42d17a920231a5b7ecf7
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 17:46:16 2018 -0500
+
+    Started work on class to delete reservations
+
+commit 5175ccb0db8e46b07931f3aafe0a45cb50920cfe
+Author: Daniel Wang <dcw2772@rit.edu>
+Date:   Thu Mar 1 17:44:39 2018 -0500
+
+    Made ReservationRequest abstract so the different reservation operations can use polymorphism
+
+commit 91a25eb3f15096eb7a890a918f0893163526a90e
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 15:39:18 2018 -0500
+
+    Added Command Interface and Concrete Commands
+
+commit ab310d52f79a944035aec6cd642480dfa5408e43
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Thu Mar 1 14:40:13 2018 -0500
+
+    Added Application with scanner
+
+commit b77e310166e1450422438d8ae315f4e7a4056809
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Tue Feb 27 19:09:45 2018 -0500
+
+    execute() no longer public
+
+commit 8eecaa228b702fa2314ac8441c26852f4eb8c0a1
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Tue Feb 27 19:09:14 2018 -0500
+
+    Added ReservationRequest
+
+commit 2603c69344d476a8dbd98c6b03f2d50706cf54e8
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Tue Feb 27 19:09:01 2018 -0500
+
+    Added ItineraryRequest
+
+commit 4de4206199651e29cbae6f5b46235d114d56d74b
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Tue Feb 27 19:08:34 2018 -0500
+
+    Started AirportRequest
+
+commit e86b81e3947f0240b5306e7fa27539895a75da90
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Tue Feb 27 19:06:36 2018 -0500
+
+    Working on Itinerary and Reservation so that they may used in the rest of the systems.
+
+commit 177b9b1440e37858e7815d59d7cb55bf388cb6fe
+Merge: ae22cc9 2da7c56
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Tue Feb 27 18:42:07 2018 -0500
+
+    Merge branch 'master' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into SavingReservations
+
+commit ae22cc97673d84de438d190317b9fce02b2f3393
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Tue Feb 27 18:41:09 2018 -0500
+
+    Added class files necessary for Reservation Saver subsystem. Need to verify with team on the implementation of Itinerary and Reservation.
+
+commit 7c6158ea29e008aa12eb0aea75ec3682c34cda97
+Merge: d79d70a 2da7c56
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Tue Feb 27 18:40:29 2018 -0500
+
+    Merge branch 'master' of https://github.com/BobbySwen262/designproject-better-than-united-airlines into requests
+
+commit d79d70a42f3457f748ba380aa0091c132a74fc80
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Tue Feb 27 18:35:05 2018 -0500
+
+    Added execute() to Request interface
+
+commit 2da7c56af56b8751a7a720e1d3c86f088ce870e8
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Tue Feb 27 18:28:31 2018 -0500
+
+    Standard Files
+
+commit 9b72916cc9b3a9e9398785064a25791fecca33af
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Tue Feb 27 18:21:57 2018 -0500
+
+    Started work on Request subsystem
+
+commit 1271a1bff1011f63aa52cf60392e767d37ab7233
+Author: Elijah Cantella <edc8230@rit.edu>
+Date:   Tue Feb 27 18:21:47 2018 -0500
+
+    Created a new branch to begin implementing the
+    Reservation Saving subsystem.
+
+commit 1bc369597cd9c12b44f6f9629713f962133a054e
+Author: Dan Wang <dcw2772@rit.edu>
+Date:   Tue Feb 27 18:08:37 2018 -0500
+
+    This is just being done because git is stupid and won't let me just commit the packages/folders.
+
+commit 6f5e37d41fc3af56ebbfdb832ae5c2d3cb85f53d
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Tue Feb 27 14:39:52 2018 -0500
+
+    Created file structure
+
+commit 5131f22cf55a2b3aab0f89038be18a2565799594
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Tue Feb 27 14:34:26 2018 -0500
+
+    Added Design Doc Template
+
+commit de9eb1aee0d13feb2f6623ca3aa5a95d68c1f94d
+Author: Lindsey Ferretti <lindsey.ferretti@gmail.com>
+Date:   Tue Feb 27 14:26:32 2018 -0500
+
+    initial commit
